@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAdvert.Web", "WebAdvert.Web\WebAdvert.Web.csproj", "{8237DD23-D150-4DF4-8D42-455F52CCAA47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8237DD23-D150-4DF4-8D42-455F52CCAA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8237DD23-D150-4DF4-8D42-455F52CCAA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8237DD23-D150-4DF4-8D42-455F52CCAA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8237DD23-D150-4DF4-8D42-455F52CCAA47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90530204-E922-4289-8C29-96E2FB0462C8}
+	EndGlobalSection
+EndGlobal
